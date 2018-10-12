@@ -7,6 +7,11 @@ Assignment 1: Visualize the map and bird locations in the nicest possible way
     3.Improve the map to be more readable
     .Show the 15 positions of the birds from Kasios 
     
-For the first assignement, we added the source code in Ipython Notebook format as well 
-as all the intermediate visualisations leading to the final result.
+For the first assignement, you will find three different folders containing:
+- The inputs used throught the Notebook 
+- The Notebook with the Python code in "Ipython" and "HTML" formats N
+- All the intermediate visualisations we produced as well as the finale visualisation
+
+In each folder you will find a text file name " content_of_the_folder " that describes 
+in a bit more details the contents of the folder
 
